@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Full Stack Engineer at @carts-guru.
+- 🔭 I’m currently working as a Web Engineer.
 - 💬 Ask me about Hackathons, Chatbots, Design... well whatever. I like so much things :heart: 
 - 📫 How to reach me: elena.ruiz.bdn@gmail.com
 - 😄 Pronouns: she/her
